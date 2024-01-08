@@ -1,0 +1,10 @@
+"E:\CLion 2022.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2022.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\CODE\Data_hierarchy_List -B E:\CODE\Data_hierarchy_List\cmake-build-debug
+-- The C compiler identification is GNU 9.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGW/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (5.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/CODE/Data_hierarchy_List/cmake-build-debug
