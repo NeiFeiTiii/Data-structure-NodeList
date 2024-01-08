@@ -5,4 +5,4 @@ I hope everyone can learn data structures well to students who are full of dream
 By DDD
 On October 10, 2023
 
-Finished On Ferbrary 8, 2024
+Finished On February 8, 2024
